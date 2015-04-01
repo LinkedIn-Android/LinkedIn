@@ -23,6 +23,8 @@
         <activity
             android:name=".DBActivity"
             android:label="@string/title_activity_db" >
+            android:name=".Example_Activity"
+            android:label="@string/title_activity_example_" >
         </activity>
     </application>
 
